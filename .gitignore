@@ -1,0 +1,24 @@
+# Ignore the folder and everything inside it
+data/
+image/
+
+
+# Ignoriere alles im Ordner doc
+doc/*
+# Aber erlaube PDF-Dateien
+!doc/*.pdf
+
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
