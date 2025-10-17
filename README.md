@@ -19,3 +19,8 @@ Das Projekt umfasst **SQL-Skripte**, **Constraints**, **Prozeduren**, **Trigger*
   - Trigger zur automatischen Rechnungserstellung bei Zustellung einer Bestellung
 - **Tests**
   - Reproduzierbare Inserts/Deletes zur Überprüfung von Constraints und Triggern
+
+
+## Dokumentation
+
+Weitere Details zur Modellierung und den Implementierungen sind in der Datei [`doc/auftragsmanagement.pdf`](doc/auftragsmanagement.pdf) beschrieben.
